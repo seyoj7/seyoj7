@@ -79,30 +79,6 @@ quote: "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra
 
 ---
 
-### ⚙️ Automation & CI/CD
-
-I use GitHub Actions to automate the software delivery workflow:
-
-- ✅ Run linting, tests, and builds on every push and pull request
-- 🔍 Check code quality before changes are merged
-- 🚀 Deploy approved changes automatically to the configured hosting platform
-- 📦 Keep project dependencies and workflow actions up to date
-
-<div align="center">
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD with GitHub Actions" />
-  <img src="https://img.shields.io/badge/Automation-CI%2FCD%20Ready-2EA44F?style=for-the-badge&logo=dependabot&logoColor=white" alt="Automation and CI/CD ready" />
-</div>
-
----
-
-### 📌 Featured Projects
-
-| Project       | Description                                                           | Links                                            |
-| :------------ | :-------------------------------------------------------------------- | :----------------------------------------------- |
-| **Keybox**    | Local password manager with zero-knowledge memory handling.           | [💻 GitHub](https://github.com/seyoj7/keybox)    |
-| **Ghostrail** | Solana payment facilitator prototype with escrow and cloud services.  | [💻 GitHub](https://github.com/seyoj7/ghostrail) |
-| **Noviq**     | Pay-per-request AI services powered by on-chain USDC payments on Arc. | [💻 GitHub](https://github.com/seyoj7/noviq)     |
-
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
