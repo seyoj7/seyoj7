@@ -31,13 +31,6 @@ passions: Clean Code, UI/UX, Automation, and Developer Experience
 quote: "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra
 ```
 
-- 🔭 I’m currently building high-performance, accessible web applications and distributed backends.
-- 💡 Passionate about modern architecture, microservices, cloud deployments, and scalable databases.
-- 💬 Ask me about **React, Next.js, Node.js, Python, Solidity, Rust, PostgreSQL, Docker, and AWS**.
-- 📫 Reach out to me: **[joyeshpaul55@gmail.com](mailto:your-email@example.com)**
-
----
-
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
