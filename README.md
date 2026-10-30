@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,30&height=220&section=header&text=Hi%20there,%20I'm%20Joyesh%20👋&fontSize=42&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Cloud%20Architect&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Building+scalable+full-stack+web+apps;Cloud-native+and+API-first+engineering;Open+source+enthusiast+%26+continuous+learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+web+apps;Cloud-native+and+API-first+engineering;Open+source+enthusiast+%26+continuous+learner" alt="Typing SVG" />
   </a>
   <br/>
 
@@ -77,10 +77,10 @@ quote: "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra
 <div align="center">
   <p align="center">
     <a href="https://github.com/seyoj7">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seyoj7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Joyesh's GitHub Stats" />
+      <img height="180em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=seyoj7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Joyesh's GitHub Stats" />
     </a>
     <a href="https://github.com/seyoj7">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyoj7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Joyesh's Top Languages" />
+      <img height="180em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=seyoj7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Joyesh's Top Languages" />
     </a>
   </p>
   <p align="center">
